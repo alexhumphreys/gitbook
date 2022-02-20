@@ -2,6 +2,6 @@
 
 * [README](README.md)
 
-## The Company
+## About
 
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Hello](about/hello.md)
