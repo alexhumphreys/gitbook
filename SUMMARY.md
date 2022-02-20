@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
+* [Vim](vim.md)
 
 ## About
 
