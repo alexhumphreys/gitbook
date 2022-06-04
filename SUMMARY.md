@@ -6,6 +6,7 @@
   * [Observability](observability.md)
   * [Incident management](tech/incident-management.md)
   * [Devops](tech/devops.md)
+  * [Git](tech/git.md)
 * [Georgism](georgism.md)
 * [Travel](travel/README.md)
   * [Vienna](travel/vienna.md)
