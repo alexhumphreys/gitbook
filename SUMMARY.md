@@ -9,5 +9,7 @@
   * [Git](tech/git.md)
 * [Georgism](georgism.md)
 * [Travel](travel/README.md)
+  * [Berlin](travel/berlin.md)
+  * [Stockholm](travel/stockholm.md)
   * [Vienna](travel/vienna.md)
 * [Balboa](balboa.md)
