@@ -9,6 +9,7 @@
   * [Git](tech/git.md)
   * [Project Management](tech/project-management.md)
   * [Career development](tech/career-development.md)
+  * [Load testing](tech/load-testing.md)
 * [Georgism](georgism.md)
 * [Travel](travel/README.md)
   * [Berlin](travel/berlin.md)
