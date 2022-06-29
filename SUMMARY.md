@@ -2,6 +2,7 @@
 
 * [README](README.md)
 * [Tech](tech/README.md)
+  * [Terminal](tech/terminal.md)
   * [Vim](vim.md)
   * [Observability](observability.md)
   * [Incident management](tech/incident-management.md)
