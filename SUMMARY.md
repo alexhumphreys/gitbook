@@ -10,6 +10,7 @@
   * [Git](tech/git.md)
   * [Project Management](tech/project-management.md)
   * [Career development](tech/career-development.md)
+  * [Security](tech/security.md)
   * [Load testing](tech/load-testing.md)
 * [Georgism](georgism.md)
 * [Travel](travel/README.md)
