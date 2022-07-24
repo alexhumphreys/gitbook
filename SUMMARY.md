@@ -18,3 +18,5 @@
   * [Stockholm](travel/stockholm.md)
   * [Vienna](travel/vienna.md)
 * [Balboa](balboa.md)
+* [Maths](maths.md)
+* [MMA](mma.md)
