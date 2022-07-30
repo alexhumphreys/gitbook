@@ -1,3 +1,3 @@
 # Vienna
 
-* [Museums Ticket](https://www.bundesmuseencard.at)
+* [Museums Ticket](https://www.bundesmuseencard.at/)

@@ -8,8 +8,8 @@ coverY: 0
 
 Find this online at: [https://alex-humphreys.gitbook.io/personal-wiki/](https://alex-humphreys.gitbook.io/personal-wiki/)
 
-Edit at: [https://app.gitbook.com/](https://app.gitbook.com)
+Edit at: [https://app.gitbook.com/](https://app.gitbook.com/)
 
 Plan is to put lots of links here
 
-Got this idea from here: [https://wiki.nikitavoloboev.xyz/](https://wiki.nikitavoloboev.xyz)
+Got this idea from here: [https://wiki.nikitavoloboev.xyz/](https://wiki.nikitavoloboev.xyz/)

@@ -20,4 +20,6 @@
   * [Vienna](travel/vienna.md)
 * [Balboa](balboa.md)
 * [Maths](maths.md)
-* [MMA](mma.md)
+* [Sport](sport/README.md)
+  * [Cycling](sport/cycling.md)
+  * [MMA](sport/mma.md)
