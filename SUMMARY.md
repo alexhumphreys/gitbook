@@ -21,7 +21,7 @@
 * [Balboa](balboa.md)
 * [Maths](maths.md)
 * [Finance](finance.md)
-* [Blogs](blogs.md)
 * [Sport](sport/README.md)
   * [Cycling](sport/cycling.md)
   * [MMA](sport/mma.md)
+* [Writers / Websites](writers-websites.md)
