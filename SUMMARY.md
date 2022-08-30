@@ -12,6 +12,7 @@
   * [Career development](tech/career-development.md)
   * [Security](tech/security.md)
   * [Load testing](tech/load-testing.md)
+  * [Random tools I like](tech/random-tools-i-like.md)
 * [Compilers](compilers.md)
 * [Georgism](georgism.md)
 * [Travel](travel/README.md)
